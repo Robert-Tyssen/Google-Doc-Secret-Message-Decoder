@@ -17,4 +17,4 @@ This [Google Doc](https://docs.google.com/document/d/e/2PACX-1vQGUck9HIFCyezsrBS
 ██░     ██░ ███░     ███░ ██░          ███░    ██░   ████░   ████░      ██░  ██░   ██░     ██░
 ████████░     ████████░   ██████████░    ███████░     ██░     ██░     ███░    ███░ ██░     ██░
 
-(maximize screen width to prevent unecessary wrapping)
+(paste text into notepad to view without wrapping)
